@@ -6,10 +6,6 @@
 </p>
 
 
-<p align="center">
-<img src="https://images.cooltext.com/5647459.png" width=600px height=200px>
-</p>
-
 
    ##  Repositorio para presentar proyectos de la materia Aplicaciones moviles - GLOBAL
 
